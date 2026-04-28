@@ -28,8 +28,6 @@ I'm currently a second year student at the University of Guelph studying Compute
 
 ## 📊 GitHub Stats
 
-![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylepraias&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=d32f2f&icon_color=d32f2f)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylepraias&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=d32f2f)
 
 ---
