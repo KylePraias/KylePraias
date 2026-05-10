@@ -25,9 +25,3 @@ I'm currently a second year student at the University of Guelph studying Compute
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylepraias&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=d32f2f)
-
----
