@@ -1,6 +1,6 @@
 # Hey, I'm Kyle 👋
 
-I'm currently a second year student at the University of Guelph studying Computer Science
+I'm currently a third year student at the University of Guelph studying Computer Science
 
 ---
 
